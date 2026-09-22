@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://Allan-Ngugi-Nganga.github.io/HaulSize/sitemap.xml
